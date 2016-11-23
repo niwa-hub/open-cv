@@ -13,5 +13,5 @@
 EclipseでJava用のOpenCVを使う(for windows)  
 <http://qiita.com/livlea/items/a853c374d6d91b33f5fe>
 
-OpenCV 3.1 eclipseでJavaでじゃばじゃば 
+OpenCV 3.1 eclipseでJavaでじゃばじゃば  
 <http://pg-fan.com/?p=549>
