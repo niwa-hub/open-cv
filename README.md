@@ -7,7 +7,7 @@
 ## 2. git clone
 
 ## 3. eclipseで実行
-* 画面はSwingで作成
+* 画面はJavaFXで作成
 
 ## 参考
 EclipseでJava用のOpenCVを使う(for windows)  
